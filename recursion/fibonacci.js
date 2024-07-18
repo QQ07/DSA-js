@@ -39,4 +39,4 @@ function fibbb(n) {
   return fibbb(n - 1) + fibbb(n - 2);
 }
 
-console.log(fibbb(11))
+console.log(fibbb(7))
